@@ -1,0 +1,37 @@
+.intern-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+  padding: 20px;
+  margin: 20px;
+}
+
+.intern-image{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.intern-info {
+  flex: 1;
+}
+
+.intern-name {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.intern-info-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.intern-grade {
+  font-size: 20px;
+  font-weight: bold;
+}
