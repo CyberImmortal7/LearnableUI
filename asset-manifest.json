@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cyberimmortal7.github.io/LearnableUI/static/css/main.1e73bc88.css",
+    "main.js": "/cyberimmortal7.github.io/LearnableUI/static/js/main.a5a3ccb6.js",
+    "static/js/453.f948ad57.chunk.js": "/cyberimmortal7.github.io/LearnableUI/static/js/453.f948ad57.chunk.js",
+    "static/media/EducateAble Logo - Original with Transparent Background.svg": "/cyberimmortal7.github.io/LearnableUI/static/media/EducateAble Logo - Original with Transparent Background.dfbea84270296ec1cf78.svg",
+    "index.html": "/cyberimmortal7.github.io/LearnableUI/index.html",
+    "main.1e73bc88.css.map": "/cyberimmortal7.github.io/LearnableUI/static/css/main.1e73bc88.css.map",
+    "main.a5a3ccb6.js.map": "/cyberimmortal7.github.io/LearnableUI/static/js/main.a5a3ccb6.js.map",
+    "453.f948ad57.chunk.js.map": "/cyberimmortal7.github.io/LearnableUI/static/js/453.f948ad57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e73bc88.css",
+    "static/js/main.a5a3ccb6.js"
+  ]
+}
